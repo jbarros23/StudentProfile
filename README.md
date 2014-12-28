@@ -4,4 +4,4 @@ Barros, Justin <br/>
 Carranza, David <br/>
 Thota, Venkata <br/>
 
-Student Profile 
+Student Profile Web Application  
