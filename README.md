@@ -1,8 +1,7 @@
 StudentProfile
 ==============
-Barros, Justin
-Carranza, David
-Thota, Venkata 
-==============
+Barros, Justin <br/>
+Carranza, David <br/>
+Thota, Venkata <br/>
 
 Student Profile 
